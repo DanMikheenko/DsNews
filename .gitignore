@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 app.config
+/DsNews/App.config
